@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "CS361 Assignment 6",
+        "due_date": "2026-05-20",
+        "priority": "High",
+        "status": "unread"
+    },
+    {
+        "id": 2,
+        "title": "Study Quiz",
+        "due_date": "2026-05-22",
+        "priority": "Medium",
+        "status": "unread"
+    }
+]
