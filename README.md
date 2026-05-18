@@ -1,6 +1,6 @@
 # notifications-microservice
 
-This microservice provides assignment notifications for students.
+This microservice provides assignment notifications for students..
 
 ## Features
 
